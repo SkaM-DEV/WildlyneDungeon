@@ -1,0 +1,3 @@
+rondache en bois;bouclier;0;4;7;5
+bol en bois;casque;8;8;8;0
+écu d'acier;bouclier;8;10;10;6
